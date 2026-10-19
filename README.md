@@ -92,12 +92,12 @@ That's where it all began, and the profile is still there if you want to take a 
 | 🎨 **Modern UI** | Clean interface that stays out of your way |
 | 🔓 **Open source** | Built in the open, contributions welcome |
 
-<a href="https://github.com/sidx1/Prefrontal"><img src="https://img.shields.io/badge/%E2%86%92_Open_Prefrontal_on_GitHub-4C97FF?style=for-the-badge&logo=github&logoColor=white" alt="Open Prefrontal on GitHub" /></a>
+<a href="https://github.com/sidx1-scratch/Prefrontal"><img src="https://img.shields.io/badge/%E2%86%92_Open_Prefrontal_on_GitHub-4C97FF?style=for-the-badge&logo=github&logoColor=white" alt="Open Prefrontal on GitHub" /></a>
 
-![Last commit](https://img.shields.io/github/last-commit/sidx1/Prefrontal?style=flat-square&labelColor=0d1117&color=59C059)
-![Open issues](https://img.shields.io/github/issues/sidx1/Prefrontal?style=flat-square&labelColor=0d1117&color=4C97FF)
-![Stars](https://img.shields.io/github/stars/sidx1/Prefrontal?style=flat-square&labelColor=0d1117&color=FFBF00)
-![License](https://img.shields.io/github/license/sidx1/Prefrontal?style=flat-square&labelColor=0d1117)
+![Last commit](https://img.shields.io/github/last-commit/sidx1-scratch/Prefrontal?style=flat-square&labelColor=0d1117&color=59C059)
+![Open issues](https://img.shields.io/github/issues/sidx1-scratch/Prefrontal?style=flat-square&labelColor=0d1117&color=4C97FF)
+![Stars](https://img.shields.io/github/stars/sidx1-scratch/Prefrontal?style=flat-square&labelColor=0d1117&color=FFBF00)
+![License](https://img.shields.io/github/license/sidx1-scratch/Prefrontal?style=flat-square&labelColor=0d1117)
 
 <sub>[⬆️ Back to the menu](#menu) · [Next: What I'm into →](#what-im-into)</sub>
 
@@ -180,25 +180,25 @@ This is the part that's real. Every one of these comes straight to me, a person,
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/sidx1/sidx1/issues/new?title=%5BGuestbook%5D+&body=**Name%3A**+%0A**Where+you%27re+from%3A**+%0A**What+you%27re+up+to%3A**+%0A%0A**Say+something%3A**+%0A"><img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F_Sign_the_guestbook-FFBF00?style=for-the-badge" alt="Sign the guestbook" /></a>
-<br/><sub>Leave your name and say hi.<br/><a href="https://github.com/sidx1/sidx1/issues?q=is%3Aissue+%22%5BGuestbook%5D%22+in%3Atitle">👀 Read the guestbook</a></sub>
+<a href="https://github.com/sidx1-scratch/sidx1-scratch/issues/new?title=%5BGuestbook%5D+&body=**Name%3A**+%0A**Where+you%27re+from%3A**+%0A**What+you%27re+up+to%3A**+%0A%0A**Say+something%3A**+%0A"><img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F_Sign_the_guestbook-FFBF00?style=for-the-badge" alt="Sign the guestbook" /></a>
+<br/><sub>Leave your name and say hi.<br/><a href="https://github.com/sidx1-scratch/sidx1-scratch/issues?q=is%3Aissue+%22%5BGuestbook%5D%22+in%3Atitle">👀 Read the guestbook</a></sub>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/sidx1/sidx1/issues/new?title=%5BIdea%5D+&body=**The+idea%3A**%0A%0A**Why+it%27d+be+cool%3A**%0A"><img src="https://img.shields.io/badge/%F0%9F%92%A1_Drop_an_idea-FF8C1A?style=for-the-badge" alt="Drop an idea" /></a>
-<br/><sub>Got a project idea you'll never build?<br/><a href="https://github.com/sidx1/sidx1/issues?q=is%3Aissue+%22%5BIdea%5D%22+in%3Atitle">🗂️ Browse all ideas</a></sub>
+<a href="https://github.com/sidx1-scratch/sidx1-scratch/issues/new?title=%5BIdea%5D+&body=**The+idea%3A**%0A%0A**Why+it%27d+be+cool%3A**%0A"><img src="https://img.shields.io/badge/%F0%9F%92%A1_Drop_an_idea-FF8C1A?style=for-the-badge" alt="Drop an idea" /></a>
+<br/><sub>Got a project idea you'll never build?<br/><a href="https://github.com/sidx1-scratch/sidx1-scratch/issues?q=is%3Aissue+%22%5BIdea%5D%22+in%3Atitle">🗂️ Browse all ideas</a></sub>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/sidx1/sidx1/discussions"><img src="https://img.shields.io/badge/%E2%9D%93_Ask_me_anything-4C97FF?style=for-the-badge" alt="Ask me anything" /></a>
-<br/><sub>Start a thread and we can go back and forth.<br/><a href="https://github.com/sidx1/sidx1/discussions">💬 Browse discussions</a></sub>
+<a href="https://github.com/sidx1-scratch/sidx1-scratch/discussions"><img src="https://img.shields.io/badge/%E2%9D%93_Ask_me_anything-4C97FF?style=for-the-badge" alt="Ask me anything" /></a>
+<br/><sub>Start a thread and we can go back and forth.<br/><a href="https://github.com/sidx1-scratch/sidx1-scratch/discussions">💬 Browse discussions</a></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/sidx1/sidx1/issues/new?title=%5BCollab%5D+&body=**What+I%27d+like+to+build+together%3A**%0A%0A**What+I+can+bring%3A**%0A"><img src="https://img.shields.io/badge/%F0%9F%A4%9D_Build_together-59C059?style=for-the-badge" alt="Build together" /></a>
+<a href="https://github.com/sidx1-scratch/sidx1-scratch/issues/new?title=%5BCollab%5D+&body=**What+I%27d+like+to+build+together%3A**%0A%0A**What+I+can+bring%3A**%0A"><img src="https://img.shields.io/badge/%F0%9F%A4%9D_Build_together-59C059?style=for-the-badge" alt="Build together" /></a>
 <br/><sub>Team up on something weird.</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/sidx1/Prefrontal/issues/new"><img src="https://img.shields.io/badge/%F0%9F%90%9B_Report_a_bug-FF6680?style=for-the-badge" alt="Report a Prefrontal bug" /></a>
+<a href="https://github.com/sidx1-scratch/Prefrontal/issues/new"><img src="https://img.shields.io/badge/%F0%9F%90%9B_Report_a_bug-FF6680?style=for-the-badge" alt="Report a Prefrontal bug" /></a>
 <br/><sub>Found something broken in Prefrontal?</sub>
 </td>
 <td align="center" width="33%">
